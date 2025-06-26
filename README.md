@@ -1,6 +1,5 @@
 # 📈 Stock Market Portfolio Analysis with Python
 
-[![License](https://img.shields.io/github/license/DivyangSingh0000/Stock-Market-Portfolio)](LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/DivyangSingh0000/Stock-Market-Portfolio)
 ![Issues](https://img.shields.io/github/issues/DivyangSingh0000/Stock-Market-Portfolio)
 ![Stars](https://img.shields.io/github/stars/DivyangSingh0000/Stock-Market-Portfolio?style=social)
